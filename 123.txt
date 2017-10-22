@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 20171022
 hhkk;lasjdklfjasdklnf
 hsdfalksnfd
 sdkjhkjfaskl
-=======
-//20171022
-#include<stdafx.h>
-#include<iostream>
->>>>>>> ec4c7b5e536b4e15468d7e8ebafecd0f2546ff7f
