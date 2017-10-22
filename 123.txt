@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 //20171022
 #include<stdafx.h>
 #include<iostream>
+=======
+20171022
+hhkk;lasjdklfjasdklnf
+hsdfalksnfd
+sdkjhkjfaskl
+>>>>>>> parent of e7a5aae... Merge branch 'master' of https://github.com/zxtchiu/first
